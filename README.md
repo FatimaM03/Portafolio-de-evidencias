@@ -10,7 +10,7 @@ Incluye una descripción de su motivación, experiencia, proyectos, articulos p�
 
 Tambien contiene una sección de almacenamiento  de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 ## Demo 
-Te dejo un link a mi portafolio para que lo puedas ver de forma interactiva 
+Te dejo un link a mi portafolio para que lo puedas ver de forma interactiva: (https://bright-bienenstitch-e5f1be.netlify.app/)
 Aquí podras apreciar un poco de lo que puedes lograr con tu portafolio de evidencias, e incluso más si te lo propones.
 
 te dejo uno ejemplo de lo que hice con el mio.
