@@ -13,7 +13,11 @@ Tambien contiene una sección de almacenamiento  de archivos *(imágenes)* que n
 Aquí podras apreciar un poco de lo que puedes lograr con tu portafolio de evidencias, e incluso más si te lo propones.
 
 te dejo uno ejemplo de lo que hice con el mio.
-![images](images/Captura de pantalla(10).png) 
+![images](images/Evidencia_3.png) 
+![images](images/Evidencia_2.png) 
+![images](images/Evidencia_1.png) 
+
+
 ## Tecnologías
 
 Esta página fe creada con:
@@ -31,4 +35,4 @@ El texto de la página web esta escrito en español sin embargo las clcases rela
 ## Contacto 
 
 Desarrollado por: Fátima Millán en Tecnolochicas Pro Summer Camp 
-[Malinali Becerril](https://www.linkedin.com/in/malibb/).
+[Fátima Millán] (https://www.linkedin.com/in/f%C3%A1tima-mill%C3%A1n-3a2670267)
