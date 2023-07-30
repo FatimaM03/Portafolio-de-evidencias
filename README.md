@@ -13,8 +13,7 @@ Tambien contiene una sección de almacenamiento  de archivos *(imágenes)* que n
 Aquí podras apreciar un poco de lo que puedes lograr con tu portafolio de evidencias, e incluso más si te lo propones.
 
 te dejo uno ejemplo de lo que hice con el mio.
-
-
+![images](images/Captura de pantalla(10).png) 
 ## Tecnologías
 
 Esta página fe creada con:
